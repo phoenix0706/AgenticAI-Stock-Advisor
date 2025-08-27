@@ -1,0 +1,4 @@
+agno
+yfinance
+google-genai
+plotly
